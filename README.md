@@ -1,2 +1,4 @@
 # hello-world
-test
+This repo is only for me to practice the Git's operations.
+
+Thank you!
